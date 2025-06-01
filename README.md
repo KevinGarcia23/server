@@ -14,7 +14,7 @@ A minimal HTTP server built from scratch in Python, to learn how HTTP requests a
 - Returns “405 Method Not Allowed” for any non-GET request.
 
 # Clone the repo
-git clone https://github.com/yourusername/python-http-server.git
+git clone https://github.com/KevinGarcia23/server
 cd python-http-server
 
 # Launch the server
